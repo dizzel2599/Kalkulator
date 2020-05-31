@@ -1,0 +1,10 @@
+C:\Users\Dizzel\source\repos\TugasK\TugasK\bin\Debug\TugasK.exe.config
+C:\Users\Dizzel\source\repos\TugasK\TugasK\bin\Debug\TugasK.exe
+C:\Users\Dizzel\source\repos\TugasK\TugasK\bin\Debug\TugasK.pdb
+C:\Users\Dizzel\source\repos\TugasK\TugasK\obj\Debug\TugasK.csprojAssemblyReference.cache
+C:\Users\Dizzel\source\repos\TugasK\TugasK\obj\Debug\TugasK.Form1.resources
+C:\Users\Dizzel\source\repos\TugasK\TugasK\obj\Debug\TugasK.Properties.Resources.resources
+C:\Users\Dizzel\source\repos\TugasK\TugasK\obj\Debug\TugasK.csproj.GenerateResource.cache
+C:\Users\Dizzel\source\repos\TugasK\TugasK\obj\Debug\TugasK.exe
+C:\Users\Dizzel\source\repos\TugasK\TugasK\obj\Debug\TugasK.pdb
+C:\Users\Dizzel\source\repos\TugasK\TugasK\obj\Debug\TugasK.csproj.CoreCompileInputs.cache
